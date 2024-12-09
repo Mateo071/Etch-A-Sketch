@@ -31,4 +31,5 @@ screen.onkey(turn_left, "Left")
 screen.onkey(turn_right, "Right")
 screen.onkey(reset, "r")
 screen.onkey(jump, "space")
+screen.color
 screen.exitonclick()
